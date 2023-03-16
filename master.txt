@@ -1,2 +1,8 @@
 hello this is master c1.
+<<<<<<< HEAD
 hello this is master c2.hello this is master c3.
+=======
+hello this is master c2.
+hello this is main m1.
+hello this is main m2.
+>>>>>>> main
